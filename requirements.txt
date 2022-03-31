@@ -7,3 +7,4 @@ python-decouple
 django-cors-headers
 drf-yasg
 gunicorn
+django-allauth
